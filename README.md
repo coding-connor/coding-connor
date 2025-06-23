@@ -1,8 +1,17 @@
-# 👋 Greetings!
+# 👋 Hi, I'm Connor Haines
 
-🔭 I’m currently working on a professional [AI representative](https://connor-haines.com), now with [deep-research functionality](https://connor-haines.com/deep-research).
+I'm a software engineer passionate about health tech, AI, and building tools that empower people to live healthier lives. Currently, I work at [MyFitnessPal](https://www.myfitnesspal.com), contributing to engineering efforts that help millions of users improve their nutrition and fitness through data-driven products.
 
-💬 Ask me about how my academic philosophy training impacts my approach to prompt engineering.
+## 💼 What I Do
+- 🤖 Generative AI Engineering — building intelligent product features powered by LLMs
+- 🛠️ Back-end development with a focus on performance, reliability, and clean architecture
 
+## 🧠 I'm Currently Learning
+- LLM evaluation frameworks and benchmark design
+- Advanced LLM orchestration and tooling
+- Building LLM-powered features and integrating them into real-world platforms
 
-
+## 📫 Get in Touch
+I'm always open to connecting or collaborating:
+- ✉️ connor_haines@outlook.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/connor-haines)
