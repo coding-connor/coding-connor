@@ -14,4 +14,4 @@ I'm a software engineer passionate about health tech, AI, and building tools tha
 ## 📫 Get in Touch
 I'm always open to connecting or collaborating:
 - ✉️ connor_haines@outlook.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/connor-haines)
+- 🌐 <a href="https://www.linkedin.com/in/connorhaines" target="_blank">LinkedIn</a>
