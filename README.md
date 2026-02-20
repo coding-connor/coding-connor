@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Connor Haines
 
-I'm a senior software engineer passionate about health tech, AI, and building tools that empower people to live healthier lives. Currently, I work at [MyFitnessPal](https://www.myfitnesspal.com), contributing to engineering efforts that help millions of users improve their nutrition and fitness through data-driven products.
+I'm a senior software engineer passionate about AI, and building software powered by AI. Currently, I work at [MyFitnessPal](https://www.myfitnesspal.com), where I work on AI-powered food logging. 
 
 ## 💼 What I Do
 - 🤖 AI Engineering — building intelligent product features powered by LLMs
