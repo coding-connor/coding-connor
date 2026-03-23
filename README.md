@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Connor Haines
 
-I'm a senior software engineer passionate about AI, and building software powered by AI. Currently, I work at [MyFitnessPal](https://www.myfitnesspal.com), where I work on AI-powered food logging. 
+I'm a senior software engineer passionate about AI, and building software powered by AI. Currently, I work at [MyFitnessPal](https://www.myfitnesspal.com), where I work on AI-powered food logging and food recommendations. 
 
 ## 💼 What I Do
 - 🤖 AI Engineering — building intelligent product features powered by LLMs
