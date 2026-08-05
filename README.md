@@ -11,6 +11,6 @@ I'm a senior software engineer passionate about AI, and building software powere
 - Advanced LLM orchestration and tooling
 
 ## 📫 Get in Touch
-I'm always open to connecting or collaborating:
+I'm always open to connecting:
 - ✉️ connor_haines@outlook.com
 - 🌐 <a href="https://www.linkedin.com/in/connorhaines" target="_blank">LinkedIn</a>
